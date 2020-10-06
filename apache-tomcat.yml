@@ -1,6 +1,6 @@
 ---
 - name: Install Apache Tomcat  Server
-  hosts: all
+  hosts: 192.168.121.143
   become: true
 
   tasks:
