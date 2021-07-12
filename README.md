@@ -9,4 +9,4 @@ BYE
 
 
 
-HI TEst message
+This is the webbase sample project
